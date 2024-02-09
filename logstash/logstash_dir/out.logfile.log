@@ -1,0 +1,4 @@
+{"@timestamp":"2024-02-09T12:24:13.896Z","method":"GET123","message":"123.123.123.123 GET123.123.123.123 GET\r","host":"4aa8622cb762","client":"123.123.123.123","path":"/logstash_dir/in.logfile.log","@version":"1"}
+{"@timestamp":"2024-02-09T12:24:17.907Z","method":"GET","message":"123.123.123.123 GET\r","host":"4aa8622cb762","client":"123.123.123.123","path":"/logstash_dir/in.logfile.log","@version":"1"}
+{"path":"/logstash_dir/in.logfile.log","host":"4aa8622cb762","message":"123.123.123.123 GET\r","method":"GET","@version":"1","client":"123.123.123.123","@timestamp":"2024-02-09T12:25:09.676Z"}
+{"path":"/logstash_dir/in.logfile.log","host":"4aa8622cb762","message":"123.123.123.123 GET\r","method":"GET","@version":"1","client":"123.123.123.123","@timestamp":"2024-02-09T12:25:09.658Z"}
